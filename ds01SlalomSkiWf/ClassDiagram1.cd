@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="dsSlalomSki.FSaisieClassement">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAQACAAAEAAAACAABACAAAAAAACCYAAAAAAAgA=</HashCode>
+      <FileName>FSaisieClassement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds01SlalomSkiWf.FResultatSlalom">
+    <Position X="0.5" Y="4" Width="4" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAEAACAAAACAAAIAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>FResultatSlalom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.ListBox">
+    <Position X="4.75" Y="0.5" Width="2.75" />
+    <Members>
+      <Method Name="AddItemsCore" Hidden="true" />
+      <Property Name="AllowSelection" Hidden="true" />
+      <Property Name="BackColor" Hidden="true" />
+      <Property Name="BackgroundImage" Hidden="true" />
+      <Event Name="BackgroundImageChanged" Hidden="true" />
+      <Property Name="BackgroundImageLayout" Hidden="true" />
+      <Event Name="BackgroundImageLayoutChanged" Hidden="true" />
+      <Method Name="BeginUpdate" Hidden="true" />
+      <Property Name="BorderStyle" Hidden="true" />
+      <Method Name="ClearSelected" Hidden="true" />
+      <Property Name="ColumnWidth" Hidden="true" />
+      <Method Name="CreateItemCollection" Hidden="true" />
+      <Property Name="CreateParams" Hidden="true" />
+      <Property Name="CustomTabOffsets" Hidden="true" />
+      <Field Name="DefaultItemHeight" Hidden="true" />
+      <Property Name="DefaultSize" Hidden="true" />
+      <Event Name="DrawItem" Hidden="true" />
+      <Property Name="DrawMode" Hidden="true" />
+      <Method Name="EndUpdate" Hidden="true" />
+      <Method Name="FindString" Hidden="true" />
+      <Method Name="FindStringExact" Hidden="true" />
+      <Property Name="Font" Hidden="true" />
+      <Property Name="ForeColor" Hidden="true" />
+      <Method Name="GetItemHeight" Hidden="true" />
+      <Method Name="GetItemRectangle" Hidden="true" />
+      <Method Name="GetScaledBounds" Hidden="true" />
+      <Method Name="GetSelected" Hidden="true" />
+      <Property Name="HorizontalExtent" Hidden="true" />
+      <Property Name="HorizontalScrollbar" Hidden="true" />
+      <Method Name="IndexFromPoint" Hidden="true" />
+      <Property Name="IntegralHeight" Hidden="true" />
+      <Property Name="ItemHeight" Hidden="true" />
+      <Event Name="MeasureItem" Hidden="true" />
+      <Event Name="MouseClick" Hidden="true" />
+      <Property Name="MultiColumn" Hidden="true" />
+      <Field Name="NoMatches" Hidden="true" />
+      <Method Name="OnChangeUICues" Hidden="true" />
+      <Method Name="OnDataSourceChanged" Hidden="true" />
+      <Method Name="OnDisplayMemberChanged" Hidden="true" />
+      <Method Name="OnDrawItem" Hidden="true" />
+      <Method Name="OnFontChanged" Hidden="true" />
+      <Method Name="OnHandleCreated" Hidden="true" />
+      <Method Name="OnHandleDestroyed" Hidden="true" />
+      <Method Name="OnMeasureItem" Hidden="true" />
+      <Method Name="OnParentChanged" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="OnSelectedIndexChanged" Hidden="true" />
+      <Method Name="OnSelectedValueChanged" Hidden="true" />
+      <Property Name="Padding" Hidden="true" />
+      <Event Name="PaddingChanged" Hidden="true" />
+      <Event Name="Paint" Hidden="true" />
+      <Property Name="PreferredHeight" Hidden="true" />
+      <Method Name="Refresh" Hidden="true" />
+      <Method Name="RefreshItem" Hidden="true" />
+      <Method Name="RefreshItems" Hidden="true" />
+      <Method Name="ResetBackColor" Hidden="true" />
+      <Method Name="ResetForeColor" Hidden="true" />
+      <Property Name="RightToLeft" Hidden="true" />
+      <Method Name="ScaleControl" Hidden="true" />
+      <Property Name="ScrollAlwaysVisible" Hidden="true" />
+      <Property Name="SelectedIndices" Hidden="true" />
+      <Property Name="SelectedItems" Hidden="true" />
+      <Property Name="SelectionMode" Hidden="true" />
+      <Method Name="SetBoundsCore" Hidden="true" />
+      <Method Name="SetItemCore" Hidden="true" />
+      <Method Name="SetItemsCore" Hidden="true" />
+      <Method Name="SetSelected" Hidden="true" />
+      <Method Name="Sort" Hidden="true" />
+      <Property Name="Sorted" Hidden="true" />
+      <Property Name="TopIndex" Hidden="true" />
+      <Method Name="ToString" Hidden="true" />
+      <Property Name="UseCustomTabOffsets" Hidden="true" />
+      <Property Name="UseTabStops" Hidden="true" />
+      <Method Name="WmReflectCommand" Hidden="true" />
+      <Method Name="WndProc" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.ListBox.ObjectCollection" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="System.Windows.Forms.ListBox.IntegerCollection" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="System.Windows.Forms.ListBox.SelectedIndexCollection" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="System.Windows.Forms.ListBox.SelectedObjectCollection" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.TextBox">
+    <Position X="4.75" Y="4" Width="2.5" />
+    <Members>
+      <Property Name="AcceptsReturn" Hidden="true" />
+      <Property Name="AutoCompleteCustomSource" Hidden="true" />
+      <Property Name="AutoCompleteMode" Hidden="true" />
+      <Property Name="AutoCompleteSource" Hidden="true" />
+      <Property Name="CharacterCasing" Hidden="true" />
+      <Property Name="CreateParams" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="IsInputKey" Hidden="true" />
+      <Property Name="Multiline" Hidden="true" />
+      <Method Name="OnBackColorChanged" Hidden="true" />
+      <Method Name="OnFontChanged" Hidden="true" />
+      <Method Name="OnGotFocus" Hidden="true" />
+      <Method Name="OnHandleCreated" Hidden="true" />
+      <Method Name="OnHandleDestroyed" Hidden="true" />
+      <Method Name="OnTextAlignChanged" Hidden="true" />
+      <Property Name="PasswordChar" Hidden="true" />
+      <Method Name="Paste" Hidden="true" />
+      <Property Name="ScrollBars" Hidden="true" />
+      <Property Name="TextAlign" Hidden="true" />
+      <Event Name="TextAlignChanged" Hidden="true" />
+      <Property Name="UseSystemPasswordChar" Hidden="true" />
+      <Method Name="WndProc" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
